@@ -10,17 +10,17 @@ A[0] = 1  A[1] = 5  A[2] = 2
 A[3] = 1  A[4] = 4  A[5] = 0
 intersecting discs appear in eleven pairs of elements:
 
-0 and 1,
-0 and 2,
-0 and 4,
-1 and 2,
-1 and 3,
-1 and 4,
-1 and 5,
-2 and 3,
-2 and 4,
-3 and 4,
-4 and 5.
+0 and 1,  
+0 and 2,  
+0 and 4,  
+1 and 2,  
+1 and 3,  
+1 and 4,  
+1 and 5,  
+2 and 3,  
+2 and 4,  
+3 and 4,  
+4 and 5.  
 so the function should return 11.
 
 The function should return −1 if the number of intersecting pairs exceeds 10,000,000.
